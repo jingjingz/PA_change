@@ -1,5 +1,4 @@
-# PA_change
-Code for manuscript "A Riemann Manifold Model Framework for Longitudinal Changes in Physical Activity Patterns"
+# Code for manuscript "A Riemann Manifold Model Framework for Longitudinal Changes in Physical Activity Patterns"
 
 File "fmatch_subj_local.m" contains example Matlab code for estimating the deformation between baseline and follow-up PA curves 
 (parallel computing for subject #id).
